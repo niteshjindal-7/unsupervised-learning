@@ -10,8 +10,7 @@ The objective function for computing the mean of the numbers is, SSE ( Sum of Sq
 The objective function for Principal Component Analysis (PCA) is to maximise the variance in the projected space:
 <br>
 
-<img src="https://render.githubusercontent.com/render/math?math=$J\left(\bar{\omega}\right)\$">
-
+<img src="https://render.githubusercontent.com/render/math?math=$J\left(\bar{\omega}\right)\">
 =<img src="https://render.githubusercontent.com/render/math?math=\ \frac{1}{N}\sum_{n=1}^{N}\left(\bar{\omega}.x^{\left(n\right)}\ -\ \bar{\omega}{.\mu}_o\right)^2">
 
 ![equation2](<img src="http://www.sciweavers.org/tex2img.php?eq=%5C%20%5Cfrac%7B1%7D%7BN%7D%5Csum_%7Bn%3D1%7D%5E%7BN%7D%5Cleft%28%5Cbar%7B%5Comega%7D.x%5E%7B%5Cleft%28n%5Cright%29%7D%5C%20-%5C%20%5Cbar%7B%5Comega%7D%7B.%5Cmu%7D_o%5Cright%29%5E2&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="\ \frac{1}{N}\sum_{n=1}^{N}\left(\bar{\omega}.x^{\left(n\right)}\ -\ \bar{\omega}{.\mu}_o\right)^2" width="190" height="51" />)
