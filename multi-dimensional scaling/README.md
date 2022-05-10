@@ -4,8 +4,9 @@ OBJECTIVE FUNCTION FOR MULTI DIMENSIONAL SCALING (MDS)
 <br>
 <br>
 The objective function for computing the mean of the numbers is, SSE ( Sum of Squared Error):
-```$J\left(m\right)=\sum_{i=1}^{N}\left(m-x_i\right)^2$```
-
+```
+math: $J\left(m\right)=\sum_{i=1}^{N}\left(m-x_i\right)^2$
+```
 <br>
 
 The objective function for Principal Component Analysis (PCA) is to maximise the variance in the projected space:<br><br>
