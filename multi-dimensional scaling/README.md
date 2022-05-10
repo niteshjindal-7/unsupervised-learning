@@ -17,7 +17,7 @@ The objective function for Principal Component Analysis (PCA) is to maximise the
 <br><br>
 = <img src="https://render.githubusercontent.com/render/math?math={\bar{\omega}}^T\ [\ \frac{1}{N}\sum_{n=1}^{N}{{{(x}^{\left(n\right)}\ -\ \mu_o)(x}^{\left(n\right)}\ -\ \mu_o)}^T]{\omega}">
 
-= [1*D vector]	         [D*D matrix] 	 [D*1 vector]	
+= [1 * D vector]	         [D * D matrix] 	 [D * 1 vector]	
 
 <br>
 where
