@@ -44,5 +44,5 @@ Such methods falls under the category of proximity preserving methods as they pr
 <br>
 where
 <br>
-  <img src="https://render.githubusercontent.com/render/math?math=d_{ij}"> = the pairwise similarity (distance between point i and point j in the original space), which is given to us, and x_i , x_j are the parameters to calculate.
+  <img src="https://render.githubusercontent.com/render/math?math=d_{ij}">=the pairwise similarity (distance between point i and point j in the original space), which is given to us, and x_i , x_j are the parameters to calculate.
 
