@@ -7,6 +7,8 @@ The objective function for computing the mean of the numbers is, SSE ( Sum of Sq
 
 ![img](http://www.sciweavers.org/tex2img.php?eq=J%5Cleft%28m%5Cright%29%3D%5Csum_%7Bi%3D1%7D%5E%7BN%7D%5Cleft%28m-x_i%5Cright%29%5E2&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0[/img])
 
+<img src="https://render.githubusercontent.com/render/math?math=J\left(m\right)=\sum_{i=1}^{N}\left(m-x_i\right)^2">
+
 The objective function for Principal Component Analysis (PCA) is to maximise the variance in the projected space:<br><br>
 ![equation](<img src="http://www.sciweavers.org/tex2img.php?eq=J%5Cleft%28%5Cbar%7B%5Comega%7D%5Cright%29%5C&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="J\left(\bar{\omega}\right)\" width="39" height="19" />)
 <br>
