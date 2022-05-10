@@ -32,7 +32,8 @@ where
 OBJECTIVE FUNCTION FOR MULTI DIMENSIONAL SCALING (MDS)
 
 Sometimes, the data is not multivariate data, and it is in the pair-wise distance form. [Multi dimensional scaling](https://en.wikipedia.org/wiki/Multidimensional_scaling) is a means of visualizing the level of similarity of individual cases of a dataset.
-<mds1>
+<br>
+![image](https://raw.githubusercontent.com/niteshjindal170988/unsupervised-learning/main/multi-dimensional%20scaling/.scrap/mds1.JPG)
 <br>
 The objective of MDS is to minimize the pair-wise distance (for all pairs of i and j) in the projected space –
 <br>
