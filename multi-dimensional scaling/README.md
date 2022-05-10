@@ -9,7 +9,12 @@ The objective function for computing the mean of the numbers is, SSE ( Sum of Sq
 
 The objective function for Principal Component Analysis (PCA) is to maximise the variance in the projected space:
 <br>
-<img src="https://render.githubusercontent.com/render/math?math=J\left(\bar{\omega}\right)"> = <img src="https://render.githubusercontent.com/render/math?math=\ \frac{1}{N}\sum_{n=1}^{N}\left(\bar{\omega}.x^{\left(n\right)}\ -\ \bar{\omega}{.\mu}_o\right)^2"> = <img src="https://render.githubusercontent.com/render/math?math=\ \frac{1}{N}\sum_{n=1}^{N}{{{{\bar{\omega}}^T(x}^{\left(n\right)}\ -\ \mu_o)(x}^{\left(n\right)}\ -\ \mu_o)}^T\bar{\omega}">
+<img src="https://render.githubusercontent.com/render/math?math=J\left(\bar{\omega}\right)"> 
+<br>
+= <img src="https://render.githubusercontent.com/render/math?math=\ \frac{1}{N}\sum_{n=1}^{N}\left(\bar{\omega}.x^{\left(n\right)}\ -\ \bar{\omega}{.\mu}_o\right)^2"> 
+<br>
+= <img src="https://render.githubusercontent.com/render/math?math=\ \frac{1}{N}\sum_{n=1}^{N}{{{{\bar{\omega}}^T(x}^{\left(n\right)}\ -\ \mu_o)(x}^{\left(n\right)}\ -\ \mu_o)}^T\bar{\omega}">
+<br>
 = <img src="https://render.githubusercontent.com/render/math?math={\bar{\omega}}^T\ [\ \frac{1}{N}\sum_{n=1}^{N}{{{(x}^{\left(n\right)}\ -\ \mu_o)(x}^{\left(n\right)}\ -\ \mu_o)}^T]{\omega}">
 
 
