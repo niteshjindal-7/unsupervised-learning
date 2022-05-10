@@ -42,7 +42,5 @@ The objective of MDS is to minimize the pair-wise distance (for all pairs of i a
 <br>
 Such methods falls under the category of proximity preserving methods as they preserve the proximity in the projected space 
 <br>
-where
-<br>
-  <img src="https://render.githubusercontent.com/render/math?math=d_{ij}"> is the pairwise similarity (distance between point i and point j in the original space), which is given to us, and x_i , x_j are the parameters to calculate.
+where <img src="https://render.githubusercontent.com/render/math?math=d_{ij}"> is the pairwise similarity (distance between point i and point j in the original space), which is given to us, and x_i , x_j are the parameters to calculate.
 
