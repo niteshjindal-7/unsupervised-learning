@@ -21,9 +21,9 @@ The objective function for Principal Component Analysis (PCA) is to maximise the
 
 <br>
 where
-<img src="https://render.githubusercontent.com/render/math?math=\bar{\omega}">=D$*$1 vector
-<img src="https://render.githubusercontent.com/render/math?math=x_i">=D*1 vector
-<img src="https://render.githubusercontent.com/render/math?math={.\mu}_o">=D*1 vector.
+<img src="https://render.githubusercontent.com/render/math?math=\bar{\omega}"> is D*1 vector
+<img src="https://render.githubusercontent.com/render/math?math=x_i"> is D*1 vector
+<img src="https://render.githubusercontent.com/render/math?math={.\mu}_o"> is D*1 vector
 
 <br>
 OBJECTIVE FUNCTION FOR MULTI DIMENSIONAL SCALING (MDS)
