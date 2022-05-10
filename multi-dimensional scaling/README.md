@@ -1,8 +1,7 @@
-<br>
+MULTI DIMENSIONAL SCALING (MDS)-
+
 OBJECTIVE FUNCTION FOR MULTI DIMENSIONAL SCALING (MDS)
-<br>
-<br>
-The objective function for computing the mean of the numbers is, SSE ( Sum of Squared Error):
-J\left(m\right)=\sum_{i=1}^{N}\left(m-x_i\right)^2
-<br>
-<br>
+
+The objective function for computing the mean of the numbers is, SSE ( Sum of Squared Error): 
+
+𝐽(𝑚)=∑𝑁𝑖=1(𝑚−𝑥𝑖)2
