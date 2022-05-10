@@ -17,22 +17,24 @@ The objective function for Principal Component Analysis (PCA) is to maximise the
 <br><br>
 = <img src="https://render.githubusercontent.com/render/math?math={\bar{\omega}}^T\ [\ \frac{1}{N}\sum_{n=1}^{N}{{{(x}^{\left(n\right)}\ -\ \mu_o)(x}^{\left(n\right)}\ -\ \mu_o)}^T]{\omega}">
 
-= [1$*$D vector]	         [D$*$D matrix] 	 [D$*$1 vector]	
+= [1*D vector]	         [D*D matrix] 	 [D*1 vector]	
+
+<br>
+where <img src="https://render.githubusercontent.com/render/math?math=\bar{\omega}"> is a D$*$1 vector
+<br>
+<img src="https://render.githubusercontent.com/render/math?math=x_i"> is a D*1 vector
+<br>
+<img src="https://render.githubusercontent.com/render/math?math={.\mu}_o"> is a D*1 vector.
 
 <br>
 OBJECTIVE FUNCTION FOR MULTI DIMENSIONAL SCALING (MDS)
 <br>
 
-<br>
-=![equation3](<img src="http://www.sciweavers.org/tex2img.php?eq=%5C%20%5Cfrac%7B1%7D%7BN%7D%5Csum_%7Bn%3D1%7D%5E%7BN%7D%7B%7B%7B%7B%5Cbar%7B%5Comega%7D%7D%5ET%28x%7D%5E%7B%5Cleft%28n%5Cright%29%7D%5C%20-%5C%20%5Cmu_o%29%28x%7D%5E%7B%5Cleft%28n%5Cright%29%7D%5C%20-%5C%20%5Cmu_o%29%7D%5ET%5Cbar%7B%5Comega%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="\ \frac{1}{N}\sum_{n=1}^{N}{{{{\bar{\omega}}^T(x}^{\left(n\right)}\ -\ \mu_o)(x}^{\left(n\right)}\ -\ \mu_o)}^T\bar{\omega}" width="287" height="51" />)
-
-<br>
-[eqn4](<img src="http://www.sciweavers.org/tex2img.php?eq=%7B%5Cbar%7B%5Comega%7D%7D%5ET%5C%20%5B%5C%20%5Cfrac%7B1%7D%7BN%7D%5Csum_%7Bn%3D1%7D%5E%7BN%7D%7B%7B%7B%28x%7D%5E%7B%5Cleft%28n%5Cright%29%7D%5C%20-%5C%20%5Cmu_o%29%28x%7D%5E%7B%5Cleft%28n%5Cright%29%7D%5C%20-%5C%20%5Cmu_o%29%7D%5ET%5D%7B%5Comega%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="{\bar{\omega}}^T\ [\ \frac{1}{N}\sum_{n=1}^{N}{{{(x}^{\left(n\right)}\ -\ \mu_o)(x}^{\left(n\right)}\ -\ \mu_o)}^T]{\omega}" width="315" height="51" />)
-
+<
 <br>
 [1$*$D vector]	         [D$*$D matrix] 	 [D$*$1 vector]	
 <br>
-where $\bar{\omega}$ is a D$*$1 vector,  $x_i$ is a D$*$1 vector, ${.\mu}_o$ is a D$*$1 vector.
+
 <br>
 <br>
 Sometimes, the data is not multivariate data, and it is in the pair-wise distance form. [Multi dimensional scaling](https://en.wikipedia.org/wiki/Multidimensional_scaling) is a means of visualizing the level of similarity of individual cases of a dataset.
