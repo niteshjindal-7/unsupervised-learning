@@ -11,4 +11,4 @@ The objective function for computing the mean of the numbers is, SSE ( Sum of Sq
 ![equation](http://www.sciweavers.org/upload/Tex2Img_1652177678/render.png)
 
 <br>
-![equation](https://latex.codecogs.com/svg.image?J%5Cleft%28m%5Cright%29%3D%5Csum_%7Bi%3D1%7D%5E%7BN%7D%5Cleft%28m-x_i%5Cright%29%5E2%0D%0A)
+![equation](http://latex.codecogs.com/svg.latex?J%5Cleft%28m%5Cright%29%3D%5Csum_%7Bi%3D1%7D%5E%7BN%7D%5Cleft%28m-x_i%5Cright%29%5E2%0D%0A)
