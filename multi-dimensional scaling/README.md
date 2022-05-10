@@ -26,23 +26,19 @@ where
 <img src="https://render.githubusercontent.com/render/math?math={.\mu}_o"> is D*1 vector
 
 <br>
+<br>
 OBJECTIVE FUNCTION FOR MULTI DIMENSIONAL SCALING (MDS)
-<br>
 
-<
-<br>
-[1$*$D vector]	         [D$*$D matrix] 	 [D$*$1 vector]	
-<br>
-
-<br>
-<br>
 Sometimes, the data is not multivariate data, and it is in the pair-wise distance form. [Multi dimensional scaling](https://en.wikipedia.org/wiki/Multidimensional_scaling) is a means of visualizing the level of similarity of individual cases of a dataset.
 <mds1>
 <br>
 <br>
 The objective of MDS is to minimize the pair-wise distance (for all pairs of i and j) in the projected space –
 <br>
-$\sum_{i<j}\left(d_{ij}-\delta_{ij}\right)^2$  = $\sum_{i<j}\left(d_{ij}-||x_i-x_j||\right)^2$
+<img src="https://render.githubusercontent.com/render/math?math=\sum_{i<j}\left(d_{ij}-\delta_{ij}\right)^2"> 
+= <img src="https://render.githubusercontent.com/render/math?math=\sum_{i<j}\left(d_{ij}-||x_i-x_j||\right)^2"> 
+ 
+
 <br><br>
 Such methods falls under the category of proximity preserving methods as they preserve the proximity in the projected space 
 <br>
